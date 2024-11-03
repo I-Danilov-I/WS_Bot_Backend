@@ -4,6 +4,7 @@ using WhiteoutSurvival_Bot.GameAutomations;
 using WhiteoutSurvival_Bot.Settings;
 using WhiteoutSurvival_Bot.StableControl;
 using WhiteoutSurvival_Bot.Log;
+using WhiteoutSurvival_Bot.TextReader;
 
 
 namespace WhiteoutSurvival_Bot
@@ -22,7 +23,7 @@ namespace WhiteoutSurvival_Bot
             services.AddSingleton<GameScore>();
 
             services.AddSingleton<AdbCommandExecutor>();
-            services.AddSingleton<TextReader.TextRecogntion>();
+            services.AddSingleton<TextRecogntion>();
             services.AddSingleton<AdbControl>();
             services.AddSingleton<NoxControl>();
             services.AddSingleton<PcControl>();
