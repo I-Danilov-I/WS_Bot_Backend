@@ -2,7 +2,7 @@
 
 namespace WhiteoutSurvival_Bot.DeviceControl
 {
-    public class AdbCommandExecutor(Logging.Logging logging) : Settings.Configuration
+    public class AdbCommandExecutor(Log.Logging logging) : Settings.Configuration
     {
 
         public string ExecuteAdbCommand(string command)

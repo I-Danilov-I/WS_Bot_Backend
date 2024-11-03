@@ -1,6 +1,6 @@
 ﻿namespace WhiteoutSurvival_Bot.GameAutomations
 {
-    internal class Helden(Logging.Logging logging,
+    internal class Helden(Log.Logging logging,
         DeviceControl.GameControl gameControl,
         Settings.GameSettings gameSettings,
         Settings.GameScore gameScore,

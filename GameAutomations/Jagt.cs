@@ -1,7 +1,7 @@
 ﻿
 namespace WhiteoutSurvival_Bot.GameAutomations
 {
-    internal class Jagt(Logging.Logging logging,
+    internal class Jagt(Log.Logging logging,
         DeviceControl.GameControl gameControl,
         Settings.GameSettings gameSettings,
         Settings.GameScore gameScore,
@@ -9,7 +9,7 @@ namespace WhiteoutSurvival_Bot.GameAutomations
         DeviceControl.NoxControl noxControl,
         DeviceControl.AdbCommandExecutor adb)
     {
-        public Logging.Logging Logging { get; } = logging;
+        public Log.Logging Logging { get; } = logging;
 
         internal void PolarTerrorStarten(int tierLevel)
         {

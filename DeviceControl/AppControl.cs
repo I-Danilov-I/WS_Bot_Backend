@@ -1,4 +1,4 @@
-﻿using WhiteoutSurvival_Bot.Logging;
+﻿using WhiteoutSurvival_Bot.Log;
 using WhiteoutSurvival_Bot.TextReader;
 
 namespace WhiteoutSurvival_Bot.DeviceControl

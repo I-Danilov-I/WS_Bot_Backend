@@ -1,6 +1,6 @@
 ﻿namespace WhiteoutSurvival_Bot.GameAutomations
 {
-    internal class TruppenTraining(Logging.Logging logging,
+    internal class TruppenTraining(Log.Logging logging,
         DeviceControl.GameControl gameControl,
         Settings.GameSettings gameSettings,
         Settings.GameScore gameScore,

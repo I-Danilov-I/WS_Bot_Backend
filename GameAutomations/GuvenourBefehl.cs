@@ -1,6 +1,6 @@
 ﻿namespace WhiteoutSurvival_Bot.GameAutomations
 {
-    internal class GuvenourBefehl(Logging.Logging logging,
+    internal class GuvenourBefehl(Log.Logging logging,
         DeviceControl.GameControl gameControl,
         Settings.GameSettings gameSettings,
         Settings.GameScore gameScore,

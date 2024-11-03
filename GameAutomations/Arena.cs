@@ -1,6 +1,6 @@
 ﻿namespace WhiteoutSurvival_Bot.GameAutomations
 {
-    internal class Arena(Logging.Logging writeLogs, DeviceControl.GameControl deviceControl, Settings.GameScore gameScore)
+    internal class Arena(Log.Logging writeLogs, DeviceControl.GameControl deviceControl, Settings.GameScore gameScore)
     {
 
         public void GoToArena()

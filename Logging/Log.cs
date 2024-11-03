@@ -1,4 +1,4 @@
-﻿namespace WhiteoutSurvival_Bot.Logging
+﻿namespace WhiteoutSurvival_Bot.Log
 {
     public class Logging : Settings.Configuration
     {

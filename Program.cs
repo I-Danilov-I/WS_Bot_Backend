@@ -1,11 +1,16 @@
 ﻿using System.Diagnostics;
 
 namespace WhiteoutSurvival_Bot
-{
+{   
+    
+
+
+
+
     public static class Program
     {
         private static Stopwatch stopwatch = new Stopwatch();
-        private static Logging.Logging logging = new Logging.Logging();
+        private static Log.Logging logging = new Log.Logging();
         private static Settings.Configuration configuration = new Settings.Configuration();
 
         private static DeviceControl.AdbCommandExecutor adbCommandExecutor = new DeviceControl.AdbCommandExecutor(logging);
@@ -18,7 +23,7 @@ namespace WhiteoutSurvival_Bot
         
         private static Settings.GameScore gameScore = new Settings.GameScore();
         private static Settings.GameSettings gameSettings = new Settings.GameSettings();
-        private static Stability.Stability stability = new Stability.Stability(logging, pcControl, noxControl, adbControl, gameControl, appControl);
+        private static StableControl.Stability stability = new StableControl.Stability(logging, pcControl, noxControl, adbControl, gameControl, appControl);
 
         private static GameAutomations.Geheimdienst geheimdienst = new GameAutomations.Geheimdienst(logging, gameControl, gameSettings, gameScore, textRecogntion, noxControl, adbCommandExecutor);
         private static GameAutomations.TruppenHeilen truppenHeilen = new GameAutomations.TruppenHeilen(logging, gameControl, textRecogntion);

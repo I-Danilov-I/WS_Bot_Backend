@@ -4,11 +4,11 @@ namespace WhiteoutSurvival_Bot.Development
 {
     internal class DevlopHelper : Settings.Configuration
     {
-        private readonly Logging.Logging logging;
+        private readonly Log.Logging logging;
         private readonly DeviceControl.AdbCommandExecutor adb;
 
 
-        public DevlopHelper(Logging.Logging logging, DeviceControl.AdbCommandExecutor adb)
+        public DevlopHelper(Log.Logging logging, DeviceControl.AdbCommandExecutor adb)
         {
             this.logging = logging;
             this.adb = adb;

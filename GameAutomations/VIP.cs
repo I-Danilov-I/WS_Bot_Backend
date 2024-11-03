@@ -1,6 +1,6 @@
 ﻿namespace WhiteoutSurvival_Bot.GameAutomations
 {
-    internal class VIP(Logging.Logging logging,
+    internal class VIP(Log.Logging logging,
         DeviceControl.GameControl gameControl,
         Settings.GameSettings gameSettings,
         Settings.GameScore gameScore,

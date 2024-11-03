@@ -1,7 +1,8 @@
 ﻿
-namespace WhiteoutSurvival_Bot.Stability
+namespace WhiteoutSurvival_Bot.StableControl
 {
-    internal class Stability(Logging.Logging logging,
+
+    internal class Stability(Log.Logging logging,
         DeviceControl.PcControl pcControl,
         DeviceControl.NoxControl noxControl,
         DeviceControl.AdbControl adbControl,
