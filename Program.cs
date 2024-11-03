@@ -60,9 +60,10 @@ namespace WhiteoutSurvival_Bot
                         logging.LogAndConsoleWirite(gameScore.GetAllCounters());
 
                         stopwatch.Restart();
-                        stability.CheckStability();
+                        botControl.Stability.CheckStability();
                         geheimdienst.StartProcess();
                         Time();
+
 
                         stopwatch.Restart();
                         stability.CheckStability();
