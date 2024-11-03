@@ -3,7 +3,7 @@ using System.Diagnostics;
 
 namespace WhiteoutSurvival_Bot.DeviceControl
 {
-    internal class PcControl
+    public class PcControl
     {
 
         // Methode zum Überprüfen des freien Festplattenspeichers

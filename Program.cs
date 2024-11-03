@@ -1,11 +1,11 @@
-﻿using System.Diagnostics;
+﻿using Microsoft.Extensions.DependencyInjection;
+using System.Diagnostics;
+using System.Security.Cryptography.X509Certificates;
+using WhiteoutSurvival_Bot.Development;
+using WhiteoutSurvival_Bot.DeviceControl;
 
 namespace WhiteoutSurvival_Bot
-{   
-    
-
-
-
+{
 
     public static class Program
     {
@@ -43,6 +43,13 @@ namespace WhiteoutSurvival_Bot
 
         internal static void Main()
         {
+
+
+            // Erstellen des Service Providers
+            ServicesInitializer botControl = new ServicesInitializer();
+            botControl.Arena.GoToArena();
+
+
             //stability.CheckStability();
             while (true)
             {

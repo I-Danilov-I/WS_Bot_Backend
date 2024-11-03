@@ -1,6 +1,6 @@
 ﻿namespace WhiteoutSurvival_Bot.Settings
 {
-    internal class GameSettings
+    public class GameSettings
     {
         // Einstellungen für das Spiel
         internal bool TruppenAusgleich { get; set; } = false; // Truppen ausgleichen

@@ -2,7 +2,7 @@
 
 namespace WhiteoutSurvival_Bot.DeviceControl
 {
-    internal class NoxControl(AdbCommandExecutor adb) : Settings.Configuration
+    public class NoxControl(AdbCommandExecutor adb) : Settings.Configuration
     {
 
         internal void StartNoxPlayer()

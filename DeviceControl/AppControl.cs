@@ -3,7 +3,7 @@ using WhiteoutSurvival_Bot.TextReader;
 
 namespace WhiteoutSurvival_Bot.DeviceControl
 {
-    internal class AppControl(AdbCommandExecutor adb) : Settings.Configuration
+    public class AppControl(AdbCommandExecutor adb) : Settings.Configuration
     {
 
         internal void StartApp()

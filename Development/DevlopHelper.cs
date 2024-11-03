@@ -2,7 +2,7 @@
 
 namespace WhiteoutSurvival_Bot.Development
 {
-    internal class DevlopHelper : Settings.Configuration
+    public class DevlopHelper : Settings.Configuration
     {
         private readonly Log.Logging logging;
         private readonly DeviceControl.AdbCommandExecutor adb;

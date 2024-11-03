@@ -1,6 +1,6 @@
 ﻿namespace WhiteoutSurvival_Bot.GameAutomations
 {
-    internal class TruppenHeilen(Log.Logging logging, DeviceControl.GameControl GameControl, TextReader.TextRecogntion textRecogntion) : Settings.GameScore
+    public class TruppenHeilen(Log.Logging logging, DeviceControl.GameControl GameControl, TextReader.TextRecogntion textRecogntion) : Settings.GameScore
     {
 
         public void Heilen()

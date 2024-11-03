@@ -1,6 +1,6 @@
 ﻿namespace WhiteoutSurvival_Bot.DeviceControl
 {
-    internal class AdbControl(AdbCommandExecutor adb) : Settings.Configuration
+    public class AdbControl(AdbCommandExecutor adb) : Settings.Configuration
     {
 
         internal void StartADBConnection()

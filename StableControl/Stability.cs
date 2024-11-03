@@ -2,7 +2,7 @@
 namespace WhiteoutSurvival_Bot.StableControl
 {
 
-    internal class Stability(Log.Logging logging,
+    public class Stability(Log.Logging logging,
         DeviceControl.PcControl pcControl,
         DeviceControl.NoxControl noxControl,
         DeviceControl.AdbControl adbControl,

@@ -1,8 +1,7 @@
 ﻿namespace WhiteoutSurvival_Bot.GameAutomations
 {
-    internal class Arena(Log.Logging writeLogs, DeviceControl.GameControl deviceControl, Settings.GameScore gameScore)
+    public class Arena(Log.Logging writeLogs, DeviceControl.GameControl deviceControl, Settings.GameScore gameScore)
     {
-
         public void GoToArena()
         {
             Console.ForegroundColor = ConsoleColor.Cyan;

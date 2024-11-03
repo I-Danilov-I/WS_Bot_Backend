@@ -1,6 +1,6 @@
 ﻿namespace WhiteoutSurvival_Bot.DeviceControl
 {
-    internal class GameControl(
+    public class GameControl(
         Log.Logging logging, 
         DeviceControl.AdbCommandExecutor adb, 
         DeviceControl.NoxControl noxControl, 

@@ -1,6 +1,6 @@
 ﻿namespace WhiteoutSurvival_Bot.GameAutomations
 {
-    internal class Erkundung(Log.Logging logging ,TextReader.TextRecogntion textRecogntion, DeviceControl.GameControl gameControl, Settings.GameScore gameScore)
+    public class Erkundung(Log.Logging logging ,TextReader.TextRecogntion textRecogntion, DeviceControl.GameControl gameControl, Settings.GameScore gameScore)
     {
         public void StartProcess()
         {

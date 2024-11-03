@@ -1,6 +1,6 @@
 ﻿namespace WhiteoutSurvival_Bot.GameAutomations
 {
-    internal class Allianz(Log.Logging logging, DeviceControl.GameControl gameControl, Settings.GameSettings gameSettings, Settings.GameScore gameScore)
+    public class Allianz(Log.Logging logging, DeviceControl.GameControl gameControl, Settings.GameSettings gameSettings, Settings.GameScore gameScore)
     {
 
         public void AutobeitritAktivieren()

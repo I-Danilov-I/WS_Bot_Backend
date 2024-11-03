@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WhiteoutSurvival_Bot.Settings
 {
-    internal class GameScore
+    public class GameScore
     {
         internal int GeheimdienstCounter { get; set; } = 0;
         internal int OfflineEarningsCounter { get; set; } = 0;
