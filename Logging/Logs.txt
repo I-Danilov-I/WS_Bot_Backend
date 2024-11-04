@@ -8516,3 +8516,723 @@ ArenaFightsCounter                                : 0
 [ Search Mission                          .
 [ GEHEIMDIENST ]
 -----------------------------------------------------------------------------
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : False                                                   => Starting... ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Nicht erforderlich                  ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,47 Minuten                        ]
+[ Verstrichene Zeit:                  : 88,01 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 89,48                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Find Misson                         : Kopfgeld                            ]
+[ Search Mission                         ..
+[ Meister                             : Überspringen                        ]
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Find Misson                         : Kopfgeld                            ]
+[ Search Mission                         ..
+[ Meister                             : Überspringen                        ]
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Find Misson                         : Heldenreise                         ]
+[ Search Mission                         ..
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Kampf                               : ...                                 ]
+[ Kampf                               : Starting                            ]
+[ Kampf                               : Complete                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 16,05 Minuten                       ]
+[ Verstrichene Zeit:                  : 962,80 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 978,85                              ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 1
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Nicht erforderlich                  ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,61 Minuten                        ]
+[ Verstrichene Zeit:                  : 36,66 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 37,27                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Nicht erforderlich                  ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,63 Minuten                        ]
+[ Verstrichene Zeit:                  : 38,06 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 1,27 Min                            ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Nicht erforderlich                  ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,65 Minuten                        ]
+[ Verstrichene Zeit:                  : 38,71 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 0,65 Min                            ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission                          .

@@ -8,7 +8,7 @@
         DeviceControl.NoxControl noxControl,
         DeviceControl.AdbCommandExecutor adb)
     {
-        public void GoToBaum()
+        private void GoToBaum()
         {
             gameControl.ClickAtTouchPositionWithHexa("00000084", "0000004d"); // Bonusübersicht
             gameControl.ClickAtTouchPositionWithHexa("000001bc", "000003a8"); // Kraft
