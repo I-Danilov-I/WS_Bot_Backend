@@ -29,7 +29,7 @@
             action(); // Führt die zugewiesene Methode aus, die das BaseDirectory bereinigt und setzt
 
             // Initialisieren der Standardwerte
-            CommandDelay = 100;
+            CommandDelay = 0;
             ReconnectSleepTime = 10;
             LoopCounter = 0;
 

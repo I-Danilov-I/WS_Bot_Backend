@@ -9,15 +9,18 @@
         DeviceControl.AdbCommandExecutor adb)
     {
 
+        private int lastClickedX = 0;
+        private int lastClickedY = 0;
+
 
         internal void StartProcess()
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
             logging.LogAndConsoleWirite("[ GEHEIMDIENST ]");
             logging.LogAndConsoleWirite("-----------------------------------------------------------------------------");
-            gameControl.GoWelt();
-            GoToMisson();
-            string missionsart = ClickAcrossScreenSequentially(400, 400, 100, 100, 100);
+            //gameControl.GoWelt();
+            //GoToMisson();
+            string missionsart = ClickAcrossScreenSequentially(380, 450, 150, 100, 100);
 
             if (missionsart == "R")
             {
@@ -70,11 +73,11 @@
                 gameControl.ClickAtTouchPositionWithHexa("00000296", "000005da"); // Kampf
                 gameControl.ClickAtTouchPositionWithHexa("0000033c", "0000042a"); // Aktiviere  Speed 2x
                 gameControl.ClickAtTouchPositionWithHexa("00000335", "000004ab"); // Aktiviere Auto Attack
-  
+                logging.PrintFormatted("Kampf", "Starting");
                 Thread.Sleep(45 * 1000);
                 gameControl.ClickAtTouchPositionWithHexa("000000d8", "000005e2"); // Abholen
                 gameScore.GeheimdienstCounter++;
-                logging.PrintFormatted("Kampf", "Starting");
+                logging.PrintFormatted("Kampf", "Complete");
             }
 
             else if (missionsart == "M")
@@ -110,7 +113,6 @@
 
         internal string ClickAcrossScreenSequentially(int topMargin, int bottomMargin, int leftMargin, int rightMargin, int clickCount)
         {
-            // Bildschirmauflösung abrufen
             (int screenWidth, int screenHeight) = noxControl.GetResolution();
 
             if (screenWidth == 0 || screenHeight == 0)
@@ -119,64 +121,52 @@
                 return "0";
             }
 
-            // Berechnung der Start- und Endbereiche für die X- und Y-Koordinaten
             int startX = leftMargin;
             int endX = screenWidth - rightMargin;
             int startY = topMargin;
             int endY = screenHeight - bottomMargin;
-
-            // Schrittgröße festlegen (z.B. alle 50 Pixel klicken, um die Fläche abzudecken)
-            int stepSize = 50; // Anpassen je nach gewünschter Genauigkeit
+            int stepSize = 75;
 
             logging.PrintFormatted("Search Mission", "...");
 
-            // Systematisches Klicken in einem Rasterformat über die gesamte Fläche
-            for (int y = startY; y < endY; y += stepSize)
+            bool isFirstIteration = lastClickedX == 0 && lastClickedY == 0;
+
+            for (int y = isFirstIteration ? startY : lastClickedY; y < endY; y += stepSize)
             {
-                for (int x = startX; x < endX; x += stepSize)
+                for (int x = isFirstIteration ? startX : lastClickedX; x < endX; x += stepSize)
                 {
-                    ClickAt(x, y); // Klick an der aktuellen Position
-                    Thread.Sleep(1000);
+                    ClickAt(x, y);
+                    lastClickedX = x;
+                    lastClickedY = y;
+
                     string missionsart = CheckMissionsArt();
 
-                    // Abbrechen, wenn eine Missionsart gefunden wird (außer "Meister")
                     if (missionsart == "Belohnung")
                     {
                         logging.PrintFormatted("Belohnung", "...");
-                        gameControl.ClickAtTouchPositionWithHexa("00000335", "000004ab"); // Abholen
+                        gameControl.ClickAtTouchPositionWithHexa("00000335", "000004ab");
                         Thread.Sleep(4000);
-                        gameScore.GeheimdienstCounter++;
                         logging.PrintFormatted("Belohnung", "Abgeholt");
                         continue;
                     }
-                    else if (missionsart == "Bestienjagt")
+                    else if (missionsart == "Bestienjagt" || missionsart == "Rettung" || missionsart == "Heldenreise" || missionsart == "Feuerjäger")
                     {
-                        return "B";
+                        return missionsart.Substring(0, 1);  // Return und speichere den letzten Zustand
                     }
-                    else if (missionsart == "Rettung")
-                    {
-                        return "R";
-                    }
-                    else if (missionsart == "Heldenreise")
-                    {
-                        return "H";
-                    }
-
                     else if (missionsart == "Meister")
                     {
-                        // Wenn "Meister" gefunden wird, mache weiter ohne Abbruch
                         logging.PrintFormatted("Meister", "Überspringen");
                         continue;
                     }
-                    else if (missionsart == "Feuerjäger")
-                    {
-                        return "F";
-                    }
 
+                    isFirstIteration = false;
                 }
+
+                lastClickedX = startX;  // Zurücksetzen von X für die nächste Zeile
             }
 
-            // Keine relevante Missionsart gefunden
+            lastClickedX = 0;  // Reset der Positionen am Ende
+            lastClickedY = 0;
             return "0";
         }
 
