@@ -20,7 +20,14 @@
             logging.LogAndConsoleWirite("-----------------------------------------------------------------------------");
             gameControl.GoWelt();
             GoToMisson();
-            string missionsart = ClickAcrossScreenSequentially(380, 450, 150, 100, 100);
+            string missionsart = ClickAcrossScreenSequentially(380, 450, 150, 100, 25);
+            if (missionsart == "0")
+            {
+                logging.PrintFormatted("Counter abgelaufen", "setze fort");
+                gameControl.PressButtonBack();
+                return;
+            }
+
 
             if (missionsart == "R")
             {
@@ -128,17 +135,18 @@
             int stepSize = 75;
 
             bool isFirstIteration = lastClickedX == 0 && lastClickedY == 0;
-
+            int i = 0;
             for (int y = isFirstIteration ? startY : lastClickedY; y < endY; y += stepSize)
             {
                 for (int x = isFirstIteration ? startX : lastClickedX; x < endX; x += stepSize)
                 {
-                    logging.PrintFormatetInSameLine("[ Search Mission", ".");
+                    logging.PrintFormatetInSameLine("[ Search Mission", $"Versuch: [{clickCount}]");         
                     
                     ClickAt(x, y);
 
                     lastClickedX = x;
                     lastClickedY = y;
+
                     string missionsart = CheckMissionsArt();
                     logging.PrintFormatetInSameLine("[ Search Mission", "..");
 
@@ -162,10 +170,14 @@
                         continue;
                     }
 
+                    i++;
+                    if(i > clickCount)
+                    {
+                        return "0";
+                    }
+
                     isFirstIteration = false;
-                    Thread.Sleep(1000);
                     logging.PrintFormatetInSameLine("[ Search Mission", "...");
-                    Thread.Sleep(1500);
                 }
 
                 lastClickedX = startX;  // Zurücksetzen von X für die nächste Zeile
