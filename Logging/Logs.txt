@@ -9878,3 +9878,1351 @@ _____________________________________________________________________________
 [ Search Mission                         ..
 [ Search Mission                        ...
 [ Search Mission                          .
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Nicht erforderlich                  ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,81 Minuten                        ]
+[ Verstrichene Zeit:                  : 48,40 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 0,81 Min                            ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Counter abgelaufen                  : setze fort                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 4,48 Minuten                        ]
+[ Verstrichene Zeit:                  : 268,53 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 5,28 Min                            ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+
+
+Allianz Kisten werden abgeholt...
+---------------------------------------------------------------------------
+Allianz Kisten abholung beendet! :)
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,76 Minuten                        ]
+[ Verstrichene Zeit:                  : 45,36 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 6,04 Min                            ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+
+
+Allianz Technologie Beitrag wird ausgeführt...
+---------------------------------------------------------------------------
+Allianz sagt Danke für dein Beitrag! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,29 Minuten                        ]
+[ Verstrichene Zeit:                  : 77,65 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 7,33 Min                            ]
+_____________________________________________________________________________
+
+
+Allianz Hilfe wird ausgeführt...
+---------------------------------------------------------------------------
+Allianz sagt Danke für deine Hilfe! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,62 Minuten                        ]
+[ Verstrichene Zeit:                  : 37,33 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 7,95 Min                            ]
+_____________________________________________________________________________
+
+
+Allianz Autobeitrit re/aktivieren...
+---------------------------------------------------------------------------
+Allianz autobeitrit reaktiviert! :)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,78 Minuten                        ]
+[ Verstrichene Zeit:                  : 47,02 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 8,74 Min                            ]
+_____________________________________________________________________________
+
+
+Arena Kapf
+---------------------------------------------------------------------------
+Arena Kapf: OK
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,65 Minuten                        ]
+[ Verstrichene Zeit:                  : 98,90 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 10,39 Min                           ]
+_____________________________________________________________________________
+
+
+Lebensbaum Essens wird abgeholt...
+---------------------------------------------------------------------------
+Lebensbaum Essens erfogreich abgeholt! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,89 Minuten                        ]
+[ Verstrichene Zeit:                  : 53,28 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 11,27 Min                           ]
+_____________________________________________________________________________
+
+
+Essens von Freunden wird abgeholt...
+---------------------------------------------------------------------------
+Scrollen nach unten wurde 15 ausgeführt.
+Scrollen nach unten wurde 15 ausgeführt.
+Scrollen nach unten wurde 15 ausgeführt.
+Scrollen nach unten wurde 15 ausgeführt.
+Essens von Freunden erfogreich abgeholt! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 2,72 Minuten                        ]
+[ Verstrichene Zeit:                  : 163,43 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 14,00 Min                           ]
+_____________________________________________________________________________
+
+
+Latenzträger-Truppen Training wird gestartet...
+---------------------------------------------------------------------------
+Checke ob Resoursen ausreichen...
+Es sind genug Resorsen da! ;)
+Truppen Training erfogreich gestartet! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,15 Minuten                        ]
+[ Verstrichene Zeit:                  : 68,83 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 15,15 Min                           ]
+_____________________________________________________________________________
+
+
+Infaterie-Truppen Training wird gestartet...
+---------------------------------------------------------------------------
+Checke ob Resoursen ausreichen...
+Es sind genug Resorsen da! ;)
+Truppen Training erfogreich gestartet! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,14 Minuten                        ]
+[ Verstrichene Zeit:                  : 68,53 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 16,29 Min                           ]
+_____________________________________________________________________________
+
+
+Snipers-Truppen Training wird gestartet...
+---------------------------------------------------------------------------
+Checke ob Resoursen ausreichen...
+Es sind genug Resorsen da! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,13 Minuten                        ]
+[ Verstrichene Zeit:                  : 67,90 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 17,42 Min                           ]
+_____________________________________________________________________________
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : ausgeführt aber leider gescheitert  ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,61 Minuten                        ]
+[ Verstrichene Zeit:                  : 96,51 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 19,03 Min                           ]
+_____________________________________________________________________________
+
+
+VIP tägliches Login: ...
+---------------------------------------------------------------------------
+VIP tägliches Login: Erfogreich)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,64 Minuten                        ]
+[ Verstrichene Zeit:                  : 38,16 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 19,66 Min                           ]
+_____________________________________________________________________________
+
+
+Guvenour Befehl wird veröffetlicht...
+---------------------------------------------------------------------------
+Guvenour Befehl Eilauftrag erfolgreich veröffetlicht! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,02 Minuten                        ]
+[ Verstrichene Zeit:                  : 61,00 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 20,68 Min                           ]
+_____________________________________________________________________________
+
+
+Guvenour Befehl wird veröffetlicht...
+---------------------------------------------------------------------------
+Guvenour Befehl Festlichkeiten erfolgreich veröffetlicht! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,00 Minuten                        ]
+[ Verstrichene Zeit:                  : 59,92 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 21,68 Min                           ]
+_____________________________________________________________________________
+
+
+Held Rekrutierung: Start...
+---------------------------------------------------------------------------
+Erweiterte Rekrutierung: Erfolgreich!
+Epische Rekrutierung: Erfolgreich
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,96 Minuten                        ]
+[ Verstrichene Zeit:                  : 57,86 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 22,64 Min                           ]
+_____________________________________________________________________________
+
+
+Polar Terror wird gestartet...
+---------------------------------------------------------------------------
+Bestien Jagt erfogreich gestartet! ;)
+Polar Terror erfogreich gestartet! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,45 Minuten                        ]
+[ Verstrichene Zeit:                  : 87,18 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 24,10 Min                           ]
+_____________________________________________________________________________
+
+
+Bestien Jagt wird gestartet...
+---------------------------------------------------------------------------
+Bestien Jagt erfogreich gestartet! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,53 Minuten                        ]
+[ Verstrichene Zeit:                  : 91,60 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 25,62 Min                           ]
+_____________________________________________________________________________
+
+
+Arena Kapf
+---------------------------------------------------------------------------
+Arena Kapf: OK
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,66 Minuten                        ]
+[ Verstrichene Zeit:                  : 99,32 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 27,28 Min                           ]
+_____________________________________________________________________________
+
+
+Lager Online Ausdauer wird abgeholt...
+---------------------------------------------------------------------------
+Aktuel keine Ausdauer zu verschenken.
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,70 Minuten                        ]
+[ Verstrichene Zeit:                  : 42,03 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 27,98 Min                           ]
+_____________________________________________________________________________
+
+
+Lager Online Belohnung wird abgeholt...
+---------------------------------------------------------------------------
+Lager Online Belohnung erforgreich abgeholt!
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,84 Minuten                        ]
+[ Verstrichene Zeit:                  : 50,31 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 28,82 Min                           ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 1
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 1
+LatencyCarrierUnitsTrainedCounter                 : 1
+SniperUnitsTrainedCounter                         : 1
+ExplorationBonusCounter                           : 1
+ExplorationBattleCounter                          : 1
+AllianceHelpCounter                               : 1
+AllianceChestsCounter                             : 1
+AllianceTechnologyCounter                         : 1
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 1
+EpicHeroRecruitmentCounter                        : 1
+BeastHuntCounter                                  : 2
+LifeTreeEssenceCounter                            : 2
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 2
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Comleted                            ]
+[ Heil-Hilfe                          : ...                                 ]
+[ Heil-Hilfe                          : Angefordert                         ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,95 Minuten                        ]
+[ Verstrichene Zeit:                  : 56,88 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 29,77 Min                           ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission               Versuch: [6]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission               Versuch: [7]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission               Versuch: [8]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission               Versuch: [9]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [10]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [11]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [12]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [13]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [14]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [15]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [16]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [17]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [18]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [19]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [20]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [21]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [22]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [23]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [24]
+[ Search Mission                         ..
+[ Search Mission                        ...
+[ Search Mission              Versuch: [25]
+[ Search Mission                         ..
+[ Counter abgelaufen                  : setze fort                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 5,36 Minuten                        ]
+[ Verstrichene Zeit:                  : 321,83 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 35,13 Min                           ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+
+
+Allianz Kisten werden abgeholt...
+---------------------------------------------------------------------------
+Allianz Kisten abholung beendet! :)
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,76 Minuten                        ]
+[ Verstrichene Zeit:                  : 45,82 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 35,89 Min                           ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+
+
+Allianz Technologie Beitrag wird ausgeführt...
+---------------------------------------------------------------------------
+Allianz sagt Danke für dein Beitrag! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,31 Minuten                        ]
+[ Verstrichene Zeit:                  : 78,32 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 37,20 Min                           ]
+_____________________________________________________________________________
+
+
+Allianz Hilfe wird ausgeführt...
+---------------------------------------------------------------------------
+Allianz sagt Danke für deine Hilfe! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,62 Minuten                        ]
+[ Verstrichene Zeit:                  : 37,40 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 37,82 Min                           ]
+_____________________________________________________________________________
+
+
+Allianz Autobeitrit re/aktivieren...
+---------------------------------------------------------------------------
+Allianz autobeitrit reaktiviert! :)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,75 Minuten                        ]
+[ Verstrichene Zeit:                  : 44,93 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 38,57 Min                           ]
+_____________________________________________________________________________
+
+
+Arena Kapf
+---------------------------------------------------------------------------
+Arena Kapf: OK
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,65 Minuten                        ]
+[ Verstrichene Zeit:                  : 99,11 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 40,22 Min                           ]
+_____________________________________________________________________________
+
+
+Lebensbaum Essens wird abgeholt...
+---------------------------------------------------------------------------
+Lebensbaum Essens erfogreich abgeholt! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,89 Minuten                        ]
+[ Verstrichene Zeit:                  : 53,61 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 41,12 Min                           ]
+_____________________________________________________________________________
+
+
+Essens von Freunden wird abgeholt...
+---------------------------------------------------------------------------
+Essens von Freunden erfogreich abgeholt! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 2,74 Minuten                        ]
+[ Verstrichene Zeit:                  : 164,17 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 43,85 Min                           ]
+_____________________________________________________________________________
+
+
+Latenzträger-Truppen Training wird gestartet...
+---------------------------------------------------------------------------
+Truppen werden bereits ausgebildet oder befödert. ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,88 Minuten                        ]
+[ Verstrichene Zeit:                  : 52,97 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 44,73 Min                           ]
+_____________________________________________________________________________
+
+
+Infaterie-Truppen Training wird gestartet...
+---------------------------------------------------------------------------
+Truppen werden bereits ausgebildet oder befödert. ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,88 Minuten                        ]
+[ Verstrichene Zeit:                  : 52,62 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 45,61 Min                           ]
+_____________________________________________________________________________
+
+
+Snipers-Truppen Training wird gestartet...
+---------------------------------------------------------------------------
+Checke ob Resoursen ausreichen...
+Es sind genug Resorsen da! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,24 Minuten                        ]
+[ Verstrichene Zeit:                  : 74,43 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 46,85 Min                           ]
+_____________________________________________________________________________
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : ausgeführt aber leider gescheitert  ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,60 Minuten                        ]
+[ Verstrichene Zeit:                  : 96,24 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 48,46 Min                           ]
+_____________________________________________________________________________
+
+
+VIP tägliches Login: ...
+---------------------------------------------------------------------------
+VIP tägliches Login: Erfogreich)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,64 Minuten                        ]
+[ Verstrichene Zeit:                  : 38,37 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 49,10 Min                           ]
+_____________________________________________________________________________
+
+
+Guvenour Befehl wird veröffetlicht...
+---------------------------------------------------------------------------
+Guvenour Befehl Eilauftrag erfolgreich veröffetlicht! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,00 Minuten                        ]
+[ Verstrichene Zeit:                  : 60,10 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 50,10 Min                           ]
+_____________________________________________________________________________
+
+
+Guvenour Befehl wird veröffetlicht...
+---------------------------------------------------------------------------
+Guvenour Befehl Festlichkeiten erfolgreich veröffetlicht! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,99 Minuten                        ]
+[ Verstrichene Zeit:                  : 59,33 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 51,09 Min                           ]
+_____________________________________________________________________________
+
+
+Held Rekrutierung: Start...
+---------------------------------------------------------------------------
+Erweiterte Rekrutierung: Erfolgreich!
+Epische Rekrutierung: Erfolgreich
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,97 Minuten                        ]
+[ Verstrichene Zeit:                  : 58,05 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 52,05 Min                           ]
+_____________________________________________________________________________
+
+
+Polar Terror wird gestartet...
+---------------------------------------------------------------------------
+Bestien Jagt erfogreich gestartet! ;)
+Polar Terror erfogreich gestartet! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,44 Minuten                        ]
+[ Verstrichene Zeit:                  : 86,55 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 53,50 Min                           ]
+_____________________________________________________________________________
+
+
+Bestien Jagt wird gestartet...
+---------------------------------------------------------------------------
+Bestien Jagt erfogreich gestartet! ;)
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,51 Minuten                        ]
+[ Verstrichene Zeit:                  : 90,77 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 55,01 Min                           ]
+_____________________________________________________________________________
+
+
+Arena Kapf
+---------------------------------------------------------------------------
+Arena Kapf: OK
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,65 Minuten                        ]
+[ Verstrichene Zeit:                  : 99,01 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 56,66 Min                           ]
+_____________________________________________________________________________
+
+
+Lager Online Ausdauer wird abgeholt...
+---------------------------------------------------------------------------
+Aktuel keine Ausdauer zu verschenken.
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ Accaunt                             : In Verwendung                                  => Reconectin in 10 Min ]
+Konto derzeit in Verwendung.
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 1
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 2
+LatencyCarrierUnitsTrainedCounter                 : 2
+SniperUnitsTrainedCounter                         : 2
+ExplorationBonusCounter                           : 2
+ExplorationBattleCounter                          : 2
+AllianceHelpCounter                               : 2
+AllianceChestsCounter                             : 2
+AllianceTechnologyCounter                         : 2
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 2
+EpicHeroRecruitmentCounter                        : 2
+BeastHuntCounter                                  : 4
+LifeTreeEssenceCounter                            : 4
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 4
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : False                                                   => Starting... ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ Accaunt                             : In Verwendung                                  => Reconectin in 10 Min ]

@@ -28,6 +28,7 @@
             // Enter-Taste drücken           
             string enterCommand = "shell input keyevent KEYCODE_ENTER"; // Bestätigen oder Enter drücken
             adb.ExecuteAdbCommand(enterCommand);
+            Thread.Sleep(1000);
         }
 
 
@@ -86,15 +87,17 @@
             logging.LogAndConsoleWirite("\n\nInfaterie-Truppen Training wird gestartet...");
             logging.LogAndConsoleWirite("---------------------------------------------------------------------------");
             gameControl.SeitenMenuOpen();
-
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("00000040", "000002ad"); // Auswahl im Menü, Infaterie Truppe ausbilden klicken.
-
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("000001ba", "000002d0"); // Abholung der fertig tranierten Truppen
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("000001ba", "000002d0"); // Anklicken des Gebäudes der Infaterie Truppen
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("0000028c", "000003f1"); // Button Ausbilden klicken.
-
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("000001ba", "000002d0"); // !!!!!!
-
+            Thread.Sleep(1000);
             CheckeObTruppeAusgebildetWerden(truppenAnzahl);
             gameScore.InfantryUnitsTrainedCounter++;
         }
@@ -105,14 +108,17 @@
             logging.LogAndConsoleWirite("\n\nLatenzträger-Truppen Training wird gestartet...");
             logging.LogAndConsoleWirite("---------------------------------------------------------------------------");
             gameControl.SeitenMenuOpen();
-
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("00000110", "00000304"); // Auswahl im Menü, Infaterie Truppe ausbilden klicken.
-
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("000001ba", "000002d0"); // Abholung der fertig tranierten Truppen
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("000001ba", "000002d0"); // Anklicken des Gebäudes der Infaterie Truppen
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("0000028c", "000003f1"); // Button Ausbilden klicken.
-
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("000001ba", "000002d0"); // !!!!!!
+            Thread.Sleep(1000);
 
             CheckeObTruppeAusgebildetWerden(truppenAnzahl);
             gameScore.LatencyCarrierUnitsTrainedCounter++;
@@ -124,15 +130,17 @@
             logging.LogAndConsoleWirite("\n\nSnipers-Truppen Training wird gestartet...");
             logging.LogAndConsoleWirite("---------------------------------------------------------------------------");
             gameControl.SeitenMenuOpen();
-
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("0000011a", "0000036d"); // Auswahl im Menü, Infaterie Truppe ausbilden klicken.
-
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("000001ba", "000002d0"); // Abholung der fertig tranierten Truppen
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("000001ba", "000002d0"); // Anklicken des Gebäudes der Infaterie Truppen
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("0000028c", "000003f1"); // Button Ausbilden klicken.
-
-
+            Thread.Sleep(1000);
             gameControl.ClickAtTouchPositionWithHexa("000001ba", "000002d0"); // !!!!!!
+            Thread.Sleep(1000);
 
             CheckeObTruppeAusgebildetWerden(truppenAnzahl);
             gameScore.SniperUnitsTrainedCounter++;

@@ -48,7 +48,6 @@
                 string adbCommand = $"shell input swipe {startX} {startY} {endX} {endY} {duration}";
                 adb.ExecuteAdbCommand(adbCommand);
             }
-            logging.LogAndConsoleWirite($"Scrollen nach unten wurde {anzahlScroll} ausgeführt.");
         }
 
 

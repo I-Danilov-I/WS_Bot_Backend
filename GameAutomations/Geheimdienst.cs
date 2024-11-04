@@ -140,7 +140,7 @@
             {
                 for (int x = isFirstIteration ? startX : lastClickedX; x < endX; x += stepSize)
                 {
-                    logging.PrintFormatetInSameLine("[ Search Mission", $"Versuch: [{clickCount}]");         
+                    logging.PrintFormatetInSameLine("[ Search Mission", $"Versuch: [{i}]");         
                     
                     ClickAt(x, y);
 

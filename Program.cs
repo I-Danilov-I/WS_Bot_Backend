@@ -121,10 +121,10 @@ namespace WhiteoutSurvival_Bot
                     Time();
 
                     // PolarTerror
-                    stopwatch.Restart();
-                    botControl.Jagt.PolarTerrorStarten(6);
-                    botControl.Stability.CheckStability();
-                    Time();
+                    //stopwatch.Restart();
+                    //botControl.Jagt.PolarTerrorStarten(6);
+                    //botControl.Stability.CheckStability();
+                    //Time();
 
                     // BEtienjagt
                     stopwatch.Restart();
