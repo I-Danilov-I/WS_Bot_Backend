@@ -17,19 +17,19 @@ namespace WhiteoutSurvival_Bot.StableControl
             logging.LogAndConsoleWirite("\n\n[ STABILITY CONTROL ]");
             logging.LogAndConsoleWirite("-----------------------------------------------------------------------------");
 
-            logging.PrintFormatted($"PC Network: ", $"{pcControl.IsInternetConnected()}");
+            logging.LogAndConsoleWirite($"PC Network: {pcControl.IsInternetConnected()}");
             StabileAdbConnetion();
             StabileNoxRun();
             StableNoxNetwork();
             StableAppRun();
           
             StableAppResponsive();
-            logging.PrintFormatted($"GAME Accaunt", $"{gameControl.IsAccountUsage()}");
+            logging.LogAndConsoleWirite($"GAME Accaunt {gameControl.IsAccountUsage()}");
 
-            logging.PrintFormatted($"Null Possition", $"...");
+            logging.LogAndConsoleWirite($"Null Possition");
             gameControl.BackUneversal();
             gameControl.GoStadt();
-            logging.PrintFormatted($"Null Possition", $"True");
+            logging.LogAndConsoleWirite($"Null Possition True");
 
             Console.ForegroundColor = ConsoleColor.Yellow;
             logging.LogAndConsoleWirite("-----------------------------------------------------------------------------\n\n");
@@ -41,7 +41,7 @@ namespace WhiteoutSurvival_Bot.StableControl
             bool adbConnected = adbControl.IsAdbConnected();
             if (adbConnected == false)
             {
-                logging.PrintFormatted($"ADB Connection", $"{adbConnected}", "Starting...");
+                logging.LogAndConsoleWirite($"ADB Connection {adbConnected} Starting...");
                 adbControl.StartADBConnection();
                 int i3 = 0;
                 while (i3 < 10)
@@ -54,7 +54,7 @@ namespace WhiteoutSurvival_Bot.StableControl
                     }
                     else
                     {
-                        logging.PrintFormatted($"ADB Connetion", $"{adbConnected2}");
+                        logging.LogAndConsoleWirite($"ADB Connetion {adbConnected2}");
                         return;
                     }
                 }
@@ -63,7 +63,7 @@ namespace WhiteoutSurvival_Bot.StableControl
             }
             else
             {
-                logging.PrintFormatted($"ADB Connetion", $"{adbConnected}");
+                logging.LogAndConsoleWirite($"ADB Connetion {adbConnected}");
             }
         }
 
@@ -73,7 +73,7 @@ namespace WhiteoutSurvival_Bot.StableControl
             bool isNoxRun = noxControl.IsNoxRunning();
             if (isNoxRun == false)
             {
-                logging.PrintFormatted($"NOX Ready", $"{isNoxRun}", "Starting...");
+                logging.LogAndConsoleWirite($"NOX Ready {isNoxRun} Starting...");
                 int i1 = 0;
                 noxControl.StartNoxPlayer();
                 while (i1 < 60)
@@ -86,7 +86,7 @@ namespace WhiteoutSurvival_Bot.StableControl
                     }
                     else
                     {
-                        logging.PrintFormatted($"NOX Ready", $"{noxReady}");
+                        logging.LogAndConsoleWirite($"NOX Ready {noxReady}");
                         return;
                     }
                 }
@@ -100,7 +100,7 @@ namespace WhiteoutSurvival_Bot.StableControl
             bool isNoxNetworkConnented = noxControl.IsNoxNetworkConnected();
             if (isNoxNetworkConnented == false)
             {
-                logging.PrintFormatted($"NOX Network", $"{isNoxNetworkConnented}", "Waiting...");
+                logging.LogAndConsoleWirite($"NOX Network {isNoxNetworkConnented} Waiting...");
                 int i2 = 0;
                 while (i2 < 60)
                 {
@@ -112,7 +112,7 @@ namespace WhiteoutSurvival_Bot.StableControl
                     }
                     else
                     {
-                        logging.PrintFormatted($"NOX Network", $"{isNoxNetworkConnented}");
+                        logging.LogAndConsoleWirite($"NOX Network {isNoxNetworkConnented}");
                         return;
                     }
                 }
@@ -121,7 +121,7 @@ namespace WhiteoutSurvival_Bot.StableControl
             }
             else 
             {
-                logging.PrintFormatted($"NOX Network", $"{isNoxNetworkConnented}");
+                logging.LogAndConsoleWirite($"NOX Network {isNoxNetworkConnented}");
             }
 
             
@@ -133,7 +133,7 @@ namespace WhiteoutSurvival_Bot.StableControl
             bool isAppRun = appControl.IsAppRun();
             if (isAppRun == false)
             {
-                logging.PrintFormatted($"APP Run ", $"{isAppRun}", "Starting...");
+                logging.LogAndConsoleWirite($"APP Run {isAppRun} Starting...");
                 appControl.StartApp();
                 Thread.Sleep(50 * 1000);
                 int i4 = 0;
@@ -147,7 +147,7 @@ namespace WhiteoutSurvival_Bot.StableControl
                     }
                     else
                     {
-                        logging.PrintFormatted($"APP Run", $"{isAppRun2}");
+                        logging.LogAndConsoleWirite($"APP Run {isAppRun2}");
                         return;
                     }
                 }
@@ -155,7 +155,7 @@ namespace WhiteoutSurvival_Bot.StableControl
             }
             else
             {
-                logging.PrintFormatted($"APP Run", $"{isAppRun}");
+                logging.LogAndConsoleWirite($"APP Run {isAppRun}");
             }
         }
 
@@ -165,7 +165,7 @@ namespace WhiteoutSurvival_Bot.StableControl
             bool isAppResponsive = appControl.IsAppResponsiv();
             if (isAppResponsive == false)
             {
-                logging.PrintFormatted($"APP Responsiv", $"{isAppResponsive}", "Restarting...");
+                logging.LogAndConsoleWirite($"APP Responsiv {isAppResponsive} Restarting...");
                 int i6 = 0;
                 while (i6 < 60)
                 {
@@ -177,7 +177,7 @@ namespace WhiteoutSurvival_Bot.StableControl
                     }
                     else
                     {
-                        logging.PrintFormatted($"APP Responsiv", $"{appControl.IsAppResponsiv()}");
+                        logging.LogAndConsoleWirite($"APP Responsiv {appControl.IsAppResponsiv()}");
                         return;
                     }
                 }
@@ -186,7 +186,7 @@ namespace WhiteoutSurvival_Bot.StableControl
             }
             else
             {
-                logging.PrintFormatted($"APP Responsiv", $"{appControl.IsAppResponsiv()}");
+                logging.LogAndConsoleWirite($"APP Responsiv {appControl.IsAppResponsiv()}");
             }
         }
 

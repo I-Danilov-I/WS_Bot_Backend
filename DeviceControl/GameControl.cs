@@ -19,7 +19,7 @@
             bool isAccountInUse2 = textRecogntion.CheckTextInScreenshot("Tipps", "Kontakt", "weiß");
             if (isAccountInUse == true || isAccountInUse2 == true)
             {
-                logging.PrintFormatted("Accaunt", "In Verwendung", $"Reconectin in {ReconnectSleepTime} Min");
+                logging.LogAndConsoleWirite("Accaunt");
                 appControl.CloseApp();
 
                 Thread.Sleep(TimeSpan.FromMinutes(ReconnectSleepTime));             

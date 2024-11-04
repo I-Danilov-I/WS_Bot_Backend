@@ -170,9 +170,9 @@ namespace WhiteoutSurvival_Bot
             double elapsed = elapsedMinutesNew += elapsedMinutes;
 
 
-            botControl.Logging.PrintFormatted($"Verstrichene Zeit: ", $"{elapsedMinutes:F2} Minuten");
-            botControl.Logging.PrintFormatted($"Verstrichene Zeit: ", $"{elapsedSeconds:F2} Sekunden");
-            botControl.Logging.PrintFormatted($"Verstrichene Gesamt Zeit: ", $"{elapsed:F2} Min");
+            botControl.Logging.LogAndConsoleWirite($"Verstrichene Zeit: {elapsedMinutes:F2} Minuten");
+            botControl.Logging.LogAndConsoleWirite($"Verstrichene Zeit: {elapsedSeconds:F2} Sekunden");
+            botControl.Logging.LogAndConsoleWirite($"Verstrichene Gesamt Zeit: {elapsed:F2} Min");
             botControl.Logging.LogAndConsoleWirite("_____________________________________________________________________________");
         }
 

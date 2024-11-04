@@ -15,7 +15,7 @@
 
         private void Untetigkeitsertrag()
         {
-            logging.PrintFormatted("Untetigkeitsertra", "...");
+            logging.LogAndConsoleWirite("Untetigkeitsertra");
             gameControl.ClickAtTouchPositionWithHexa("00000054", "000005f3"); // Erkundung
             gameControl.ClickAtTouchPositionWithHexa("000002cd", "00000479"); // Nehmen1
             gameControl.ClickAtTouchPositionWithHexa("000002cd", "00000479"); // Nehmen1  
@@ -23,7 +23,7 @@
             gameControl.ClickAtTouchPositionWithHexa("000001cd", "00000481"); // Nehmen Bestätigen1  
             gameControl.ClickAtTouchPositionWithHexa("000001cd", "00000481"); // Nehmen Bestätigen2  
             gameControl.ClickAtTouchPositionWithHexa("000001cd", "00000481"); // Bestätigen3
-            logging.PrintFormatted("Untetigkeitsertrag", "Ausgeführt");
+            logging.LogAndConsoleWirite("Untetigkeitsertrag");
             gameControl.PressButtonBack();
 
             gameScore.ExplorationBonusCounter++;
@@ -32,7 +32,7 @@
 
         private void Erkundungskampf()
         {
-            logging.PrintFormatted("Erkundungskampf", "...");
+            logging.LogAndConsoleWirite("Erkundungskampf");
             gameControl.ClickAtTouchPositionWithHexa("00000054", "000005f3"); // Erkundung
             
             gameControl.ClickAtTouchPositionWithHexa("000001c1", "000005b7"); // Erkunden (Kampf)
@@ -48,11 +48,11 @@
             if (textRecogntion.CheckTextInScreenshot("Zum Verlassen irgendwo tippen", "Steigere Kraft durch:", "") == true)
             {
                 gameScore.ExplorationBattleCounter++;
-                logging.PrintFormatted("Erkundungskampf", "ausgeführt aber leider gescheitert");
+                logging.LogAndConsoleWirite("Erkundungskampf");
             }
-            else { logging.PrintFormatted("Erkundungskampf", "nicht beendet"); }
+            else { logging.LogAndConsoleWirite("Erkundungskampf"); }
 
-            logging.PrintFormatted("Erkundungskampf", "Ausgeführt");
+            logging.LogAndConsoleWirite("Erkundungskampf");
             gameControl.PressButtonBack();
             gameControl.PressButtonBack();
         }

@@ -23,7 +23,7 @@
             string missionsart = ClickAcrossScreenSequentially(380, 450, 150, 100, 25);
             if (missionsart == "0")
             {
-                logging.PrintFormatted("Counter abgelaufen", "setze fort");
+                logging.LogAndConsoleWirite("Counter abgelaufen setze fort");
                 gameControl.PressButtonBack();
                 return;
             }
@@ -32,7 +32,7 @@
             if (missionsart == "R")
             {
                 StartMisson();
-                logging.PrintFormatted("Rettung", "Starting");
+                logging.LogAndConsoleWirite("Rettung Starting");
                 gameScore.GeheimdienstCounter++;
             }
 
@@ -47,7 +47,7 @@
                     if (CheckAusdauer() == true)
                     {
                         gameScore.GeheimdienstCounter++;
-                        logging.PrintFormatted("Betienjagt", "Starting");
+                        logging.LogAndConsoleWirite("Betienjagt Starting");
 
                     }
                     else { return; }
@@ -65,7 +65,7 @@
                     if (CheckAusdauer() == true)
                     {
                         gameScore.GeheimdienstCounter++;
-                        logging.PrintFormatted("Feuerjäger", "Starting");
+                        logging.LogAndConsoleWirite("Feuerjäger Starting");
 
                     }
                     else { return; }
@@ -75,33 +75,33 @@
             else if (missionsart == "H") 
             {
                 StartMisson();
-                logging.PrintFormatted("Kampf", "...");
+                logging.LogAndConsoleWirite("Kampf");
                 gameControl.ClickAtTouchPositionWithHexa("000000d8", "000005e2"); // Schneller Einsatz
                 gameControl.ClickAtTouchPositionWithHexa("00000296", "000005da"); // Kampf
                 gameControl.ClickAtTouchPositionWithHexa("0000033c", "0000042a"); // Aktiviere  Speed 2x
                 gameControl.ClickAtTouchPositionWithHexa("00000335", "000004ab"); // Aktiviere Auto Attack
-                logging.PrintFormatted("Kampf", "Starting");
+                logging.LogAndConsoleWirite("Kampf");
                 Thread.Sleep(45 * 1000);
                 gameControl.ClickAtTouchPositionWithHexa("000000d8", "000005e2"); // Abholen
                 gameScore.GeheimdienstCounter++;
-                logging.PrintFormatted("Kampf", "Complete");
+                logging.LogAndConsoleWirite("Kampf");
             }
 
             else if (missionsart == "M")
             {
-                logging.PrintFormatted("Kopfgeld", "OFF");
+                logging.LogAndConsoleWirite("Kopfgeld");
                 gameControl.PressButtonBack();
                 gameControl.PressButtonBack();
-                logging.PrintFormatted("Kopfgeld", "OFF");
+                logging.LogAndConsoleWirite("Kopfgeld");
             }
 
             else if (missionsart == "Bel")
             {
-                logging.PrintFormatted("Belohnung", "...");
+                logging.LogAndConsoleWirite("Belohnung");
                 gameControl.ClickAtTouchPositionWithHexa("00000335", "000004ab"); // Abholen
                 Thread.Sleep(4000);
                 gameScore.GeheimdienstCounter++;
-                logging.PrintFormatted("Belohnung", "Abgeholt");
+                logging.LogAndConsoleWirite("Belohnung");
             }
 
         }
@@ -109,12 +109,12 @@
 
         internal void StartMisson()
         {
-            logging.PrintFormatted("Start Mission", "...");
+            logging.LogAndConsoleWirite("Start Mission");
             gameControl.ClickAtTouchPositionWithHexa("000001ca", "00000472"); // Ansehen
             Thread.Sleep(4000);
             gameControl.ClickAtTouchPositionWithHexa("000001bc", "00000311"); // Agreifen / Erkunden /Retten
             Thread.Sleep(4000);
-            logging.PrintFormatted("Start Mission", "Completed");
+            logging.LogAndConsoleWirite("Start Mission");
         }
 
 
@@ -140,7 +140,7 @@
             {
                 for (int x = isFirstIteration ? startX : lastClickedX; x < endX; x += stepSize)
                 {
-                    logging.PrintFormatetInSameLine("[ Search Mission", $"Versuch: [{i}]");         
+                    logging.LogAndConsoleWirite("[ Search Mission Versuch: [{i}]");         
                     
                     ClickAt(x, y);
 
@@ -148,14 +148,14 @@
                     lastClickedY = y;
 
                     string missionsart = CheckMissionsArt();
-                    logging.PrintFormatetInSameLine("[ Search Mission", "..");
+                    logging.LogAndConsoleWirite("[ Search Mission");
 
                     if (missionsart == "Belohnung")
                     {
-                        logging.PrintFormatted("Belohnung", "...");
+                        logging.LogAndConsoleWirite("Belohnung");
                         gameControl.ClickAtTouchPositionWithHexa("00000335", "000004ab");
                         Thread.Sleep(4000);
-                        logging.PrintFormatted("Belohnung", "Abgeholt");
+                        logging.LogAndConsoleWirite("Belohnung");
                         continue;
                     }
                     else if (missionsart == "Bestienjagt" || missionsart == "Rettung" || missionsart == "Heldenreise" || missionsart == "Feuerjäger")
@@ -164,7 +164,7 @@
                     }
                     else if (missionsart == "Meister")
                     {
-                        logging.PrintFormatted("Meister", "Überspringen");
+                        logging.LogAndConsoleWirite("Meister");
                         gameControl.PressButtonBack();
                         Thread.Sleep(4000);
                         continue;
@@ -177,7 +177,7 @@
                     }
 
                     isFirstIteration = false;
-                    logging.PrintFormatetInSameLine("[ Search Mission", "...");
+                    logging.LogAndConsoleWirite("[ Search Mission");
                 }
 
                 lastClickedX = startX;  // Zurücksetzen von X für die nächste Zeile
@@ -198,9 +198,9 @@
 
         private void GoToMisson()
         {
-            logging.PrintFormatted("Go To Misson", "...");
+            logging.LogAndConsoleWirite("Go To Misson");
             gameControl.ClickAtTouchPositionWithHexa("00000340", "00000437"); // Geheimmission Icon 
-            logging.PrintFormatted("Go To Misson", "Completed");
+            logging.LogAndConsoleWirite("Go To Misson Completed");
             Thread.Sleep(2000);
         }                                                                               
 
@@ -210,42 +210,42 @@
             textRecogntion.TakeScreenshot();
             if (textRecogntion.CheckTextInScreenshot("Zum", "tippen", "weiß"))
             {
-                logging.PrintFormatted("Find Misson", "Belohnung");
+                logging.LogAndConsoleWirite("Find Misson");
                 return "Belohnung";
             }
 
             if (textRecogntion.CheckTextInScreenshot("Bestienjagd", "jagt", "weiß"))
             {
-                logging.PrintFormatted("Find Misson", "Bestienjagt");           
+                logging.LogAndConsoleWirite("Find Misson");           
                 return "Bestienjagt";
             }
 
             if (textRecogntion.CheckTextInScreenshot("Rette", "Überlebende", "weiß"))
             {
-                logging.PrintFormatted("Find Misson", "Rettung");
+                logging.LogAndConsoleWirite("Find Misson");
                 return "Rettung";
             }
 
             if (textRecogntion.CheckTextInScreenshot("Eine", "Heldenreise", "weiß"))
             {
-                logging.PrintFormatted("Find Misson", "Heldenreise");
+                logging.LogAndConsoleWirite("Find Misson");
                 return "Heldenreise";
             }
 
             if (textRecogntion.CheckTextInScreenshot("Meister", "Kopfgeld", "weiß"))
             {
-                logging.PrintFormatted("Find Misson", "Kopfgeld");
+                logging.LogAndConsoleWirite("Find Misson");
                 return "Meister";
             }
 
             if (textRecogntion.CheckTextInScreenshot("Feuerjäger", "Feuer", "weiß"))
             {
-                logging.PrintFormatted("Find Misson", "Feuerjäger");
+                logging.LogAndConsoleWirite("Find Misson");
                 return "Feuerjäger";
             }
             if (textRecogntion.CheckTextInScreenshot("Belohnungen", "Geheimdienst", "blau"))
             {
-                logging.PrintFormatted("Find Misson", "Feuerjäger");
+                logging.LogAndConsoleWirite("Find Misson");
                 return "Feuerjäger";
             }
 
@@ -255,30 +255,30 @@
 
         internal bool CheckTruppenKraft()
         {
-            logging.PrintFormatted("Truppen Kraft", "...");
+            logging.LogAndConsoleWirite("Truppen Kraft");
             textRecogntion.TakeScreenshot();
             if (textRecogntion.CheckTextInScreenshot("Du", "gute", "grün") == false)
             {
-                logging.PrintFormatted("Truppen Kraft", "Nicht ausreichen");
+                logging.LogAndConsoleWirite("Truppen Kraft");
                 gameControl.PressButtonBack();   
                 Thread.Sleep(2000);
                 return false;
             }
-            logging.PrintFormatted("Truppen Kraft", "OK");
+            logging.LogAndConsoleWirite("Truppen Kraft");
             return true;
         }
 
         internal bool CheckAusdauer()
         {
-            logging.PrintFormatted("Ausdauer", "...");
+            logging.LogAndConsoleWirite("Ausdauer");
             textRecogntion.TakeScreenshot();
             bool reichenResursen = textRecogntion.CheckTextInScreenshot("Ausdauer", "Gouverneur", null!); // Suche nach Text im Screenshot
             if (reichenResursen)
             {
-                logging.PrintFormatted("Ausdauer", "Nicht ausreichend");
+                logging.LogAndConsoleWirite("Ausdauer");
                 return false;
             }
-            logging.PrintFormatted("Ausdauer", "OK");
+            logging.LogAndConsoleWirite("Ausdauer");
             return true;      
         }
 
