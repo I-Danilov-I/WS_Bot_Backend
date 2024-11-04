@@ -3,6 +3,16 @@
     public class Logging : Settings.Configuration
     {
 
+        public void loading()
+        {
+            PrintFormatetInSameLine("Seraching", ".");
+            PrintFormatetInSameLine("Seraching", "..");
+            PrintFormatetInSameLine("Seraching", "...");
+        }
+
+
+
+
         // Der dritte Parameter ist optional und standardmäßig leer
         // Methode zum formatieren und farbigen Ausgeben mit festgelegten Spaltenbreiten
         internal void PrintFormatted(string label, string status, string? additionalInfo = "")
@@ -35,7 +45,7 @@
             // Setze die Farbe des Wertes auf Grün.
             Console.ForegroundColor = ConsoleColor.Green;
             // Setzte Abstand zwischen den Werten
-            int labelWidth = 20;
+            int labelWidth = 21;
 
             // Formatiere das Label, damit es rechts mit Leerzeichen aufgefüllt wird.
             string formattedLabel = label.PadRight(labelWidth);
@@ -49,7 +59,7 @@
             Console.SetCursorPosition(0, currentTop);
 
             // Schreibe das formatierte Label und den Wert in einem einheitlichen Format.
-            LogAndConsoleWirite($"{formattedLabel}{formattedValue}");
+            LogAndConsoleWirite($"{formattedLabel} {formattedValue}");
 
             // Setze den Cursor zurück an die Originalposition, falls weitere Ausgaben folgen.
             Console.SetCursorPosition(currentLeft, currentTop);

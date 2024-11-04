@@ -13,24 +13,24 @@ namespace WhiteoutSurvival_Bot
         {
             while (true)
             {
+                botControl.Geheimdienst.StartProcess();
+
                 try
                 {
-                    //botControl.Logging.LogAndConsoleWirite(botControl.GameScore.GetAllCounters());
+                    botControl.Logging.LogAndConsoleWirite(botControl.GameScore.GetAllCounters());
 
-
-                    //stopwatch.Restart();
-                    //botControl.Stability.CheckStability();
-                    botControl.Geheimdienst.StartProcess();
-                    //Time();
-
-
-                    /*
                     stopwatch.Restart();
                     botControl.Stability.CheckStability();
                     botControl.TruppenHeilen.Heilen();
-
                     Time();
-                    */
+
+                    stopwatch.Restart();
+                    botControl.Stability.CheckStability();
+                    botControl.Geheimdienst.StartProcess();
+                    Time();
+
+                    
+                    
 
                 }
                 catch (Exception e)

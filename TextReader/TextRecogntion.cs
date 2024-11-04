@@ -9,7 +9,7 @@ namespace WhiteoutSurvival_Bot.TextReader
         public bool TakeScreenshot()
         {
             Directory.CreateDirectory(ScreenshotDirectory);
-            Thread.Sleep(1000);
+            Thread.Sleep(2000);
             adb.ExecuteAdbCommand("shell screencap -p /sdcard/screenshot.png");  // Screenshot auf Emulator
             if (CheckFileOnDevice("/sdcard/screenshot.png")) // Warte, bis der Screenshot erstellt wurde und verfügbar ist
             {

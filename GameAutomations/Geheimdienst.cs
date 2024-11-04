@@ -18,8 +18,8 @@
             Console.ForegroundColor = ConsoleColor.Cyan;
             logging.LogAndConsoleWirite("[ GEHEIMDIENST ]");
             logging.LogAndConsoleWirite("-----------------------------------------------------------------------------");
-            //gameControl.GoWelt();
-            //GoToMisson();
+            gameControl.GoWelt();
+            GoToMisson();
             string missionsart = ClickAcrossScreenSequentially(380, 450, 150, 100, 100);
 
             if (missionsart == "R")
@@ -127,19 +127,20 @@
             int endY = screenHeight - bottomMargin;
             int stepSize = 75;
 
-            logging.PrintFormatted("Search Mission", "...");
-
             bool isFirstIteration = lastClickedX == 0 && lastClickedY == 0;
 
             for (int y = isFirstIteration ? startY : lastClickedY; y < endY; y += stepSize)
             {
                 for (int x = isFirstIteration ? startX : lastClickedX; x < endX; x += stepSize)
                 {
+                    logging.PrintFormatetInSameLine("[ Search Mission", ".");
+                    
                     ClickAt(x, y);
+
                     lastClickedX = x;
                     lastClickedY = y;
-
                     string missionsart = CheckMissionsArt();
+                    logging.PrintFormatetInSameLine("[ Search Mission", "..");
 
                     if (missionsart == "Belohnung")
                     {
@@ -156,10 +157,15 @@
                     else if (missionsart == "Meister")
                     {
                         logging.PrintFormatted("Meister", "Überspringen");
+                        gameControl.PressButtonBack();
+                        Thread.Sleep(4000);
                         continue;
                     }
 
                     isFirstIteration = false;
+                    Thread.Sleep(1000);
+                    logging.PrintFormatetInSameLine("[ Search Mission", "...");
+                    Thread.Sleep(1500);
                 }
 
                 lastClickedX = startX;  // Zurücksetzen von X für die nächste Zeile
@@ -242,7 +248,8 @@
             if (textRecogntion.CheckTextInScreenshot("Du", "gute", "grün") == false)
             {
                 logging.PrintFormatted("Truppen Kraft", "Nicht ausreichen");
-                gameControl.PressButtonBack();                
+                gameControl.PressButtonBack();   
+                Thread.Sleep(2000);
                 return false;
             }
             logging.PrintFormatted("Truppen Kraft", "OK");
