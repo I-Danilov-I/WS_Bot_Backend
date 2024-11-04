@@ -14,6 +14,7 @@
         public bool IsAccountUsage()
         {
             textRecogntion.TakeScreenshot();
+
             bool isAccountInUse = textRecogntion.CheckTextInScreenshot("anderen", "Konto", "blau");
             bool isAccountInUse2 = textRecogntion.CheckTextInScreenshot("Tipps", "Kontakt", "weiß");
             if (isAccountInUse == true || isAccountInUse2 == true)
@@ -58,6 +59,7 @@
             PressButtonBack();
             PressButtonBack();
             textRecogntion.TakeScreenshot();
+            Thread.Sleep(2000);
             if (textRecogntion.CheckTextInScreenshot("Spiel", "verlassen?", null!) == true)
             {
                 PressButtonBack();
@@ -68,7 +70,7 @@
         internal void GoWelt()
         {
             ClickAtTouchPositionWithHexa("00000081", "0000004f"); // Bonusübersicht klick
-            Thread.Sleep(2000);
+            Thread.Sleep(3000);
             ClickAtTouchPositionWithHexa("000001cf", "000003a6"); // Kraft klick
             Thread.Sleep(3000);
             ClickAtTouchPositionWithHexa("000002f1", "00000540"); // Technologieforschung wälen
@@ -81,7 +83,7 @@
         internal void GoStadt()
         {
             ClickAtTouchPositionWithHexa("00000081", "0000004f"); // Bonusübersicht klick
-            Thread.Sleep(2000);
+            Thread.Sleep(3000);
             ClickAtTouchPositionWithHexa("000001cf", "000003a6"); // Kraft klick
             Thread.Sleep(3000);
             ClickAtTouchPositionWithHexa("000002f1", "00000540"); // Technologieforschung wälen
@@ -92,7 +94,7 @@
         internal void SeitenMenuOpen()
         {
             ClickAtTouchPositionWithHexa("00000017", "000002b0"); // Öffne Seitenmenü
-            Thread.Sleep(2000);
+            Thread.Sleep(3000);
         }
 
 
@@ -120,6 +122,7 @@
             if (offlineErtrege == true)
             {
                 ClickAtTouchPositionWithHexa("000001bf", "000004d3"); // Bestätigen Button klicken
+                Thread.Sleep(3000);
                 logging.LogAndConsoleWirite($"Offline Erträge wurden abgeholt.");
                 gameStats.OfflineEarningsCounter++;
             }

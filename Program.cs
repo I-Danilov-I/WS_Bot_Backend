@@ -11,7 +11,6 @@ namespace WhiteoutSurvival_Bot
 
         internal static void Main()
         {
-            //stability.CheckStability();
             while (true)
             {
                 try
@@ -34,8 +33,6 @@ namespace WhiteoutSurvival_Bot
                     botControl.TruppenHeilen.Heilen();
                     Time();
 
-                        
-                    Time();
                 }
                 catch (Exception e)
                 {

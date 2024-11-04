@@ -22,7 +22,7 @@ namespace WhiteoutSurvival_Bot.StableControl
             StabileNoxRun();
             StableNoxNetwork();
             StableAppRun();
- 
+          
             StableAppResponsive();
             logging.PrintFormatted($"GAME Accaunt", $"{gameControl.IsAccountUsage()}");
 
@@ -135,6 +135,7 @@ namespace WhiteoutSurvival_Bot.StableControl
             {
                 logging.PrintFormatted($"APP Run ", $"{isAppRun}", "Starting...");
                 appControl.StartApp();
+                Thread.Sleep(50 * 1000);
                 int i4 = 0;
                 while (i4< 60) 
                 {

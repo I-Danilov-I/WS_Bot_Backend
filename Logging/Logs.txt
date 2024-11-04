@@ -4445,3 +4445,2311 @@ ArenaFightsCounter                                : 0
 [ Go To Misson                        : ...                                 ]
 [ Go To Misson                        : Completed                           ]
 [ Search Mission                      : ...                                 ]
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Ready                           : False                                                   => Starting... ]
+[ NOX Ready                           : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : False                                                   => Starting... ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Bestienjagt                         ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Truppen Kraft                       : ...                                 ]
+[ Truppen Kraft                       : OK                                  ]
+[ Ausdauer                            : ...                                 ]
+[ Ausdauer                            : OK                                  ]
+[ Betienjagt                          : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,25 Minuten                        ]
+[ Verstrichene Zeit:                  : 74,88 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 76,13                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : ausgeführt aber leider gescheitert  ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,26 Minuten                        ]
+[ Verstrichene Zeit:                  : 75,69 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 76,95                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Comleted                            ]
+[ Heil-Hilfe                          : ...                                 ]
+[ Heil-Hilfe                          : Angefordert                         ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,47 Minuten                        ]
+[ Verstrichene Zeit:                  : 28,15 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 28,62                               ]
+_____________________________________________________________________________
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,47 Minuten                        ]
+[ Verstrichene Zeit:                  : 28,15 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 28,62                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 1
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 1
+ExplorationBattleCounter                          : 1
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Bestienjagt                         ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Truppen Kraft                       : ...                                 ]
+[ Truppen Kraft                       : OK                                  ]
+[ Ausdauer                            : ...                                 ]
+[ Ausdauer                            : OK                                  ]
+[ Betienjagt                          : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,64 Minuten                        ]
+[ Verstrichene Zeit:                  : 98,30 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 99,94                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : ausgeführt aber leider gescheitert  ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,32 Minuten                        ]
+[ Verstrichene Zeit:                  : 79,03 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 80,34                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Comleted                            ]
+[ Heil-Hilfe                          : ...                                 ]
+[ Heil-Hilfe                          : Angefordert                         ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,51 Minuten                        ]
+[ Verstrichene Zeit:                  : 30,71 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 31,22                               ]
+_____________________________________________________________________________
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,51 Minuten                        ]
+[ Verstrichene Zeit:                  : 30,71 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 31,22                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 2
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 2
+ExplorationBattleCounter                          : 2
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Heldenreise                         ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Kampf                               : ...                                 ]
+[ Kampf                               : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 7,17 Minuten                        ]
+[ Verstrichene Zeit:                  : 430,30 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 437,47                              ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : ausgeführt aber leider gescheitert  ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,32 Minuten                        ]
+[ Verstrichene Zeit:                  : 79,08 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 80,40                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Nicht erforderlich                  ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,48 Minuten                        ]
+[ Verstrichene Zeit:                  : 28,66 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 29,14                               ]
+_____________________________________________________________________________
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,48 Minuten                        ]
+[ Verstrichene Zeit:                  : 28,66 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 29,14                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 3
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 3
+ExplorationBattleCounter                          : 3
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Belohnung                           ]
+[ Belohnung                           : ...                                 ]
+[ Belohnung                           : Abgeholt                            ]
+[ Find Misson                         : Belohnung                           ]
+[ Belohnung                           : ...                                 ]
+[ Belohnung                           : Abgeholt                            ]
+[ Find Misson                         : Belohnung                           ]
+[ Belohnung                           : ...                                 ]
+[ Belohnung                           : Abgeholt                            ]
+[ Find Misson                         : Bestienjagt                         ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Truppen Kraft                       : ...                                 ]
+[ Truppen Kraft                       : OK                                  ]
+[ Ausdauer                            : ...                                 ]
+[ Ausdauer                            : OK                                  ]
+[ Betienjagt                          : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 7,61 Minuten                        ]
+[ Verstrichene Zeit:                  : 456,63 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 464,24                              ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : ausgeführt aber leider gescheitert  ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,32 Minuten                        ]
+[ Verstrichene Zeit:                  : 78,98 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 80,30                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Comleted                            ]
+[ Heil-Hilfe                          : ...                                 ]
+[ Heil-Hilfe                          : Angefordert                         ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,51 Minuten                        ]
+[ Verstrichene Zeit:                  : 30,69 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 31,20                               ]
+_____________________________________________________________________________
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,51 Minuten                        ]
+[ Verstrichene Zeit:                  : 30,69 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 31,20                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 7
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 4
+ExplorationBattleCounter                          : 4
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Belohnung                           ]
+[ Belohnung                           : ...                                 ]
+[ Belohnung                           : Abgeholt                            ]
+[ Find Misson                         : Belohnung                           ]
+[ Belohnung                           : ...                                 ]
+[ Belohnung                           : Abgeholt                            ]
+[ Find Misson                         : Bestienjagt                         ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Truppen Kraft                       : ...                                 ]
+[ Truppen Kraft                       : OK                                  ]
+[ Ausdauer                            : ...                                 ]
+[ Ausdauer                            : OK                                  ]
+[ Betienjagt                          : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 8,08 Minuten                        ]
+[ Verstrichene Zeit:                  : 485,04 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 493,12                              ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : ausgeführt aber leider gescheitert  ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,31 Minuten                        ]
+[ Verstrichene Zeit:                  : 78,39 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 79,70                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Comleted                            ]
+[ Heil-Hilfe                          : ...                                 ]
+[ Heil-Hilfe                          : Angefordert                         ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,50 Minuten                        ]
+[ Verstrichene Zeit:                  : 30,24 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 30,75                               ]
+_____________________________________________________________________________
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,50 Minuten                        ]
+[ Verstrichene Zeit:                  : 30,24 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 30,75                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 10
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 5
+ExplorationBattleCounter                          : 5
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Belohnung                           ]
+[ Belohnung                           : ...                                 ]
+[ Belohnung                           : Abgeholt                            ]
+[ Find Misson                         : Belohnung                           ]
+[ Belohnung                           : ...                                 ]
+[ Belohnung                           : Abgeholt                            ]
+[ Find Misson                         : Heldenreise                         ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Kampf                               : ...                                 ]
+[ Kampf                               : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 9,16 Minuten                        ]
+[ Verstrichene Zeit:                  : 549,49 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 558,65                              ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : ausgeführt aber leider gescheitert  ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,30 Minuten                        ]
+[ Verstrichene Zeit:                  : 78,29 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 79,59                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Comleted                            ]
+[ Heil-Hilfe                          : ...                                 ]
+[ Heil-Hilfe                          : Angefordert                         ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,50 Minuten                        ]
+[ Verstrichene Zeit:                  : 30,19 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 30,70                               ]
+_____________________________________________________________________________
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,50 Minuten                        ]
+[ Verstrichene Zeit:                  : 30,19 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 30,70                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 13
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 6
+ExplorationBattleCounter                          : 6
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Rettung                             ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Rettung                             : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 4,07 Minuten                        ]
+[ Verstrichene Zeit:                  : 243,95 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 248,01                              ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : ausgeführt aber leider gescheitert  ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,31 Minuten                        ]
+[ Verstrichene Zeit:                  : 78,31 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 79,62                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Comleted                            ]
+[ Heil-Hilfe                          : ...                                 ]
+[ Heil-Hilfe                          : Angefordert                         ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,51 Minuten                        ]
+[ Verstrichene Zeit:                  : 30,43 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 30,94                               ]
+_____________________________________________________________________________
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,51 Minuten                        ]
+[ Verstrichene Zeit:                  : 30,43 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 30,94                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 14
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 7
+ExplorationBattleCounter                          : 7
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Belohnung                           ]
+[ Belohnung                           : ...                                 ]
+[ Belohnung                           : Abgeholt                            ]
+[ Find Misson                         : Belohnung                           ]
+[ Belohnung                           : ...                                 ]
+[ Belohnung                           : Abgeholt                            ]
+[ Find Misson                         : Heldenreise                         ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Kampf                               : ...                                 ]
+[ Kampf                               : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 10,87 Minuten                       ]
+[ Verstrichene Zeit:                  : 652,45 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 663,32                              ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : ausgeführt aber leider gescheitert  ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,30 Minuten                        ]
+[ Verstrichene Zeit:                  : 78,02 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 79,32                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Nicht erforderlich                  ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,46 Minuten                        ]
+[ Verstrichene Zeit:                  : 27,90 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 28,36                               ]
+_____________________________________________________________________________
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,46 Minuten                        ]
+[ Verstrichene Zeit:                  : 27,90 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 28,36                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 17
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 8
+ExplorationBattleCounter                          : 8
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Bestienjagt                         ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Truppen Kraft                       : ...                                 ]
+[ Truppen Kraft                       : OK                                  ]
+[ Ausdauer                            : ...                                 ]
+[ Ausdauer                            : OK                                  ]
+[ Betienjagt                          : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 10,32 Minuten                       ]
+[ Verstrichene Zeit:                  : 619,01 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 629,33                              ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : ausgeführt aber leider gescheitert  ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,30 Minuten                        ]
+[ Verstrichene Zeit:                  : 78,09 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 79,39                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Comleted                            ]
+[ Heil-Hilfe                          : ...                                 ]
+[ Heil-Hilfe                          : Angefordert                         ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,51 Minuten                        ]
+[ Verstrichene Zeit:                  : 30,37 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 30,88                               ]
+_____________________________________________________________________________
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,51 Minuten                        ]
+[ Verstrichene Zeit:                  : 30,37 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 30,88                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 18
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 9
+ExplorationBattleCounter                          : 9
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Heldenreise                         ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Kampf                               : ...                                 ]
+[ Kampf                               : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 2,47 Minuten                        ]
+[ Verstrichene Zeit:                  : 148,37 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 150,84                              ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : ausgeführt aber leider gescheitert  ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,29 Minuten                        ]
+[ Verstrichene Zeit:                  : 77,70 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 78,99                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Nicht erforderlich                  ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,45 Minuten                        ]
+[ Verstrichene Zeit:                  : 27,30 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 27,75                               ]
+_____________________________________________________________________________
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,45 Minuten                        ]
+[ Verstrichene Zeit:                  : 27,30 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 27,75                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 19
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 10
+ExplorationBattleCounter                          : 10
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Belohnung                           ]
+[ Belohnung                           : ...                                 ]
+[ Belohnung                           : Abgeholt                            ]
+[ Find Misson                         : Belohnung                           ]
+[ Belohnung                           : ...                                 ]
+[ Belohnung                           : Abgeholt                            ]
+[ Find Misson                         : Bestienjagt                         ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Truppen Kraft                       : ...                                 ]
+[ Truppen Kraft                       : OK                                  ]
+[ Ausdauer                            : ...                                 ]
+[ Ausdauer                            : OK                                  ]
+[ Betienjagt                          : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 10,11 Minuten                       ]
+[ Verstrichene Zeit:                  : 606,52 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 616,63                              ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : ausgeführt aber leider gescheitert  ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,30 Minuten                        ]
+[ Verstrichene Zeit:                  : 78,19 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 79,49                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Comleted                            ]
+[ Heil-Hilfe                          : ...                                 ]
+[ Heil-Hilfe                          : Angefordert                         ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,50 Minuten                        ]
+[ Verstrichene Zeit:                  : 29,99 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 30,49                               ]
+_____________________________________________________________________________
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,50 Minuten                        ]
+[ Verstrichene Zeit:                  : 29,99 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 30,49                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 22
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 11
+ExplorationBattleCounter                          : 11
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Belohnung                           ]
+[ Belohnung                           : ...                                 ]
+[ Belohnung                           : Abgeholt                            ]
+[ Find Misson                         : Rettung                             ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Rettung                             : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 11,15 Minuten                       ]
+[ Verstrichene Zeit:                  : 668,96 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 680,11                              ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : ausgeführt aber leider gescheitert  ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,31 Minuten                        ]
+[ Verstrichene Zeit:                  : 78,45 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 79,76                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Comleted                            ]
+[ Heil-Hilfe                          : ...                                 ]
+[ Heil-Hilfe                          : Angefordert                         ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,51 Minuten                        ]
+[ Verstrichene Zeit:                  : 30,50 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 31,01                               ]
+_____________________________________________________________________________
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,51 Minuten                        ]
+[ Verstrichene Zeit:                  : 30,50 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 31,01                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 24
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 12
+ExplorationBattleCounter                          : 12
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Ready                           : False                                                   => Starting... ]
+[ NOX Ready                           : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : False                                                   => Starting... ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : False                                                   => Starting... ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Ready                           : False                                                   => Starting... ]
+[ NOX Ready                           : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : False                                                   => Starting... ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Ready                           : False                                                   => Starting... ]
+[ NOX Ready                           : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : False                                                   => Starting... ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Rettung                             ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Rettung                             : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,22 Minuten                        ]
+[ Verstrichene Zeit:                  : 72,95 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 74,17                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : nicht beendet                       ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,31 Minuten                        ]
+[ Verstrichene Zeit:                  : 78,34 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 79,65                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Comleted                            ]
+[ Heil-Hilfe                          : ...                                 ]
+[ Heil-Hilfe                          : Angefordert                         ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,53 Minuten                        ]
+[ Verstrichene Zeit:                  : 32,05 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 32,58                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 1
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 1
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Rettung                             ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Rettung                             : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,97 Minuten                        ]
+[ Verstrichene Zeit:                  : 58,49 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 59,47                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : nicht beendet                       ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,31 Minuten                        ]
+[ Verstrichene Zeit:                  : 78,41 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 79,72                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Comleted                            ]
+[ Heil-Hilfe                          : ...                                 ]
+[ Heil-Hilfe                          : Angefordert                         ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,54 Minuten                        ]
+[ Verstrichene Zeit:                  : 32,26 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 32,80                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 2
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 2
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Rettung                             ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Rettung                             : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,98 Minuten                        ]
+[ Verstrichene Zeit:                  : 58,83 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 59,81                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+[ Untetigkeitsertrag                  : Ausgeführt                          ]
+[ Erkundungskampf                     : ...                                 ]
+[ Erkundungskampf                     : nicht beendet                       ]
+[ Erkundungskampf                     : Ausgeführt                          ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,31 Minuten                        ]
+[ Verstrichene Zeit:                  : 78,63 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 79,94                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Comleted                            ]
+[ Heil-Hilfe                          : ...                                 ]
+[ Heil-Hilfe                          : Angefordert                         ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,55 Minuten                        ]
+[ Verstrichene Zeit:                  : 32,72 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 33,27                               ]
+_____________________________________________________________________________
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 3
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 3
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Rettung                             ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Rettung                             : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 0,99 Minuten                        ]
+[ Verstrichene Zeit:                  : 59,69 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 60,68                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Ready                           : False                                                   => Starting... ]
+[ NOX Ready                           : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : False                                                   => Starting... ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Bestienjagt                         ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Truppen Kraft                       : ...                                 ]
+[ Truppen Kraft                       : OK                                  ]
+[ Ausdauer                            : ...                                 ]
+[ Ausdauer                            : OK                                  ]
+[ Betienjagt                          : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 2,73 Minuten                        ]
+[ Verstrichene Zeit:                  : 164,07 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 166,80                              ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ ERKUNDUNG ]
+-----------------------------------------------------------------------------
+[ Untetigkeitsertra                   : ...                                 ]
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Feuerjäger                          ]
+[ Find Misson                         : Feuerjäger                          ]
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ GEHEIMDIENST ]
+-----------------------------------------------------------------------------
+[ Go To Misson                        : ...                                 ]
+[ Go To Misson                        : Completed                           ]
+[ Search Mission                      : ...                                 ]
+[ Find Misson                         : Feuerjäger                          ]
+[ Start Mission                       : ...                                 ]
+[ Start Mission                       : Completed                           ]
+[ Truppen Kraft                       : ...                                 ]
+[ Truppen Kraft                       : OK                                  ]
+[ Ausdauer                            : ...                                 ]
+[ Ausdauer                            : OK                                  ]
+[ Feuerjäger                          : Starting                            ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,22 Minuten                        ]
+[ Verstrichene Zeit:                  : 73,25 Sekunden                      ]
+[ Verstrichene Gesamt Zeit:           : 74,47                               ]
+_____________________________________________________________________________
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]

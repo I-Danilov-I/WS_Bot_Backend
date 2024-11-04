@@ -33,10 +33,29 @@
                 if (CheckTruppenKraft() == true)
                 {
                     gameControl.ClickAtTouchPositionWithHexa("000002b6", "000005eb"); // Einsetzen
+                    Thread.Sleep(1000);
                     if (CheckAusdauer() == true)
                     {
                         gameScore.GeheimdienstCounter++;
                         logging.PrintFormatted("Betienjagt", "Starting");
+
+                    }
+                    else { return; }
+                }
+            }
+
+            else if (missionsart == "F")
+            {
+                StartMisson();
+                if (gameSettings.TruppenAusgleich == true) { gameControl.ClickAtTouchPositionWithHexa("000000fa", "000005ba"); }
+                if (CheckTruppenKraft() == true)
+                {
+                    gameControl.ClickAtTouchPositionWithHexa("000002b6", "000005eb"); // Einsetzen
+                    Thread.Sleep(1000);
+                    if (CheckAusdauer() == true)
+                    {
+                        gameScore.GeheimdienstCounter++;
+                        logging.PrintFormatted("Feuerjäger", "Starting");
 
                     }
                     else { return; }
@@ -117,7 +136,7 @@
                 for (int x = startX; x < endX; x += stepSize)
                 {
                     ClickAt(x, y); // Klick an der aktuellen Position
-
+                    Thread.Sleep(1000);
                     string missionsart = CheckMissionsArt();
 
                     // Abbrechen, wenn eine Missionsart gefunden wird (außer "Meister")
@@ -142,12 +161,18 @@
                     {
                         return "H";
                     }
+
                     else if (missionsart == "Meister")
                     {
                         // Wenn "Meister" gefunden wird, mache weiter ohne Abbruch
                         logging.PrintFormatted("Meister", "Überspringen");
                         continue;
                     }
+                    else if (missionsart == "Feuerjäger")
+                    {
+                        return "F";
+                    }
+
                 }
             }
 
@@ -168,7 +193,7 @@
             logging.PrintFormatted("Go To Misson", "...");
             gameControl.ClickAtTouchPositionWithHexa("00000340", "00000437"); // Geheimmission Icon 
             logging.PrintFormatted("Go To Misson", "Completed");
-            Thread.Sleep(1000);
+            Thread.Sleep(2000);
         }                                                                               
 
 
@@ -203,6 +228,17 @@
             {
                 logging.PrintFormatted("Find Misson", "Kopfgeld");
                 return "Meister";
+            }
+
+            if (textRecogntion.CheckTextInScreenshot("Feuerjäger", "Feuer", "weiß"))
+            {
+                logging.PrintFormatted("Find Misson", "Feuerjäger");
+                return "Feuerjäger";
+            }
+            if (textRecogntion.CheckTextInScreenshot("Belohnungen", "Geheimdienst", "blau"))
+            {
+                logging.PrintFormatted("Find Misson", "Feuerjäger");
+                return "Feuerjäger";
             }
 
 
