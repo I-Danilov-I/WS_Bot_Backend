@@ -7,11 +7,11 @@ namespace WhiteoutSurvival_Bot
     {
         // Erstellen des Service Providers
         public static ServicesInitializer botControl = new ServicesInitializer();
+        
         private static Stopwatch stopwatch = new Stopwatch();
-
         public static double elapsedMinutesNew = stopwatch.Elapsed.TotalMinutes; 
 
-        internal static void Main()
+        public static void Main()
         {
             while (true)
             {
@@ -24,6 +24,18 @@ namespace WhiteoutSurvival_Bot
                     stopwatch.Restart();
                     botControl.Stability.CheckStability();
                     botControl.TruppenHeilen.Heilen();
+                    Time();
+
+                    // Lager belohnung Ausdauer
+                    stopwatch.Restart();
+                    botControl.LagerOnlineBelohnung.AusdauerAbholen();
+                    botControl.Stability.CheckStability();
+                    Time();
+
+                    // Lager belohnung Geschenk
+                    stopwatch.Restart();
+                    botControl.LagerOnlineBelohnung.GeschnekAbholen();
+                    botControl.Stability.CheckStability();
                     Time();
 
                     // Geheimdienst
@@ -138,17 +150,6 @@ namespace WhiteoutSurvival_Bot
                     botControl.Stability.CheckStability();
                     Time();
 
-                    // Lager belohnung Ausdauer
-                    stopwatch.Restart();
-                    botControl.LagerOnlineBelohnung.AusdauerAbholen();
-                    botControl.Stability.CheckStability();
-                    Time();
-
-                    // Lager belohnung Geschenk
-                    stopwatch.Restart();
-                    botControl.LagerOnlineBelohnung.GeschnekAbholen();
-                    botControl.Stability.CheckStability();
-                    Time();
 
                 }
                 catch (Exception e)

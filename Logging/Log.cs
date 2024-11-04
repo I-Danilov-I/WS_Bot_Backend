@@ -3,16 +3,6 @@
     public class Logging : Settings.Configuration
     {
 
-        public void loading()
-        {
-            PrintFormatetInSameLine("Seraching", ".");
-            PrintFormatetInSameLine("Seraching", "..");
-            PrintFormatetInSameLine("Seraching", "...");
-        }
-
-
-
-
         // Der dritte Parameter ist optional und standardmäßig leer
         // Methode zum formatieren und farbigen Ausgeben mit festgelegten Spaltenbreiten
         internal void PrintFormatted(string label, string status, string? additionalInfo = "")

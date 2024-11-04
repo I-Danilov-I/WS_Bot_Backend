@@ -11226,3 +11226,69 @@ ArenaFightsCounter                                : 4
 [ APP Run                             : True                                ]
 [ APP Responsiv                       : True                                ]
 [ Accaunt                             : In Verwendung                                  => Reconectin in 10 Min ]
+GameScore Counters:
+-----------------------------------------------------------------------------
+GeheimdienstCounter                               : 0
+OfflineEarningsCounter                            : 0
+StorageBonusGiftCounter                           : 0
+StorageBonusStaminaCounter                        : 0
+InfantryUnitsTrainedCounter                       : 0
+LatencyCarrierUnitsTrainedCounter                 : 0
+SniperUnitsTrainedCounter                         : 0
+ExplorationBonusCounter                           : 0
+ExplorationBattleCounter                          : 0
+AllianceHelpCounter                               : 0
+AllianceChestsCounter                             : 0
+AllianceTechnologyCounter                         : 0
+HealingCounter                                    : 0
+AdvancedHeroRecruitmentCounter                    : 0
+EpicHeroRecruitmentCounter                        : 0
+BeastHuntCounter                                  : 0
+LifeTreeEssenceCounter                            : 0
+VipStatusCounter                                  : 0
+ArenaFightsCounter                                : 0
+-----------------------------------------------------------------------------
+
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : False                                                   => Starting... ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
+[ Null Possition                      : True                                ]
+-----------------------------------------------------------------------------
+
+
+[ TRUPPEN HEILUNG ]
+-----------------------------------------------------------------------------
+[ Heilung                             : ...                                 ]
+[ Heilung                             : Comleted                            ]
+[ Heil-Hilfe                          : ...                                 ]
+[ Heil-Hilfe                          : Angefordert                         ]
+_____________________________________________________________________________
+[ Verstrichene Zeit:                  : 1,82 Minuten                        ]
+[ Verstrichene Zeit:                  : 109,34 Sekunden                     ]
+[ Verstrichene Gesamt Zeit:           : 1,82 Min                            ]
+_____________________________________________________________________________
+
+
+Lager Online Ausdauer wird abgeholt...
+---------------------------------------------------------------------------
+Aktuel keine Ausdauer zu verschenken.
+
+
+[ STABILITY CONTROL ]
+-----------------------------------------------------------------------------
+[ PC Network:                         : True                                ]
+[ ADB Connetion                       : True                                ]
+[ NOX Network                         : True                                ]
+[ APP Run                             : True                                ]
+[ APP Responsiv                       : True                                ]
+[ GAME Accaunt                        : True                                ]
+[ Null Possition                      : ...                                 ]
