@@ -82,7 +82,7 @@
         }
 
 
-        internal void TrainiereInfaterie(int truppenAnzahl)
+        public void TrainiereInfaterie(int truppenAnzahl)
         {
             logging.LogAndConsoleWirite("\n\nInfaterie-Truppen Training wird gestartet...");
             logging.LogAndConsoleWirite("---------------------------------------------------------------------------");
@@ -103,7 +103,7 @@
         }
 
 
-        internal void TrainiereLatenzTreger(int truppenAnzahl)
+        public void TrainiereLatenzTreger(int truppenAnzahl)
         {
             logging.LogAndConsoleWirite("\n\nLatenzträger-Truppen Training wird gestartet...");
             logging.LogAndConsoleWirite("---------------------------------------------------------------------------");
@@ -125,7 +125,7 @@
         }
 
 
-        internal void TrainiereSniper(int truppenAnzahl)
+        public void TrainiereSniper(int truppenAnzahl)
         {
             logging.LogAndConsoleWirite("\n\nSnipers-Truppen Training wird gestartet...");
             logging.LogAndConsoleWirite("---------------------------------------------------------------------------");

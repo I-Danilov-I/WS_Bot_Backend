@@ -37,7 +37,7 @@ namespace WhiteoutSurvival_Bot.GameAutomations
             }
         }
 
-        internal void BestienJagtStarten(int bestienLevel)
+        public void BestienJagtStarten(int bestienLevel)
         {
             logging.LogAndConsoleWirite("\n\nBestien Jagt wird gestartet...");
             logging.LogAndConsoleWirite("---------------------------------------------------------------------------");

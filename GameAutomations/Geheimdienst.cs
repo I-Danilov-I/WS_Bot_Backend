@@ -13,7 +13,7 @@
         private int lastClickedY = 0;
 
 
-        internal void StartProcess()
+        public void StartProcess()
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
             logging.LogAndConsoleWirite("[ GEHEIMDIENST ]");

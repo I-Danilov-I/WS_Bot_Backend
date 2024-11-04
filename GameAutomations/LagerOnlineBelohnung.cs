@@ -9,7 +9,7 @@
         DeviceControl.AdbCommandExecutor adb)
     {
 
-        internal void GeschnekAbholen()
+        public void GeschnekAbholen()
         {
             logging.LogAndConsoleWirite("\n\nLager Online Belohnung wird abgeholt...");
             logging.LogAndConsoleWirite("---------------------------------------------------------------------------");
@@ -39,7 +39,7 @@
         }
 
 
-        internal void AusdauerAbholen()
+        public void AusdauerAbholen()
         {
             logging.LogAndConsoleWirite("\n\nLager Online Ausdauer wird abgeholt...");
             logging.LogAndConsoleWirite("---------------------------------------------------------------------------");
